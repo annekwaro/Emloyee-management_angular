@@ -15,5 +15,43 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employees": [
+    {
+      "firstName": "Ken",
+      "lastName": "Thierry",
+      "email": "kent@gmail;com",
+      "dob": "1970-02-25T23:00:00.000Z",
+      "gender": "others",
+      "education": "Post Graduate",
+      "company": "YMCA",
+      "experience": 8,
+      "package": 4,
+      "id": 5
+    },
+    {
+      "firstName": "Jean",
+      "lastName": "Mathieus",
+      "email": "jean@yahoo.com",
+      "dob": "1980-10-05T23:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Glaxo",
+      "experience": 8,
+      "package": 8,
+      "id": 6
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Nguyen",
+      "email": "alex@gmail.com",
+      "dob": "1994-07-12T22:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Gae",
+      "experience": 4,
+      "package": 5,
+      "id": 7
+    }
+  ]
 }
