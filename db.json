@@ -20,7 +20,7 @@
     {
       "firstName": "Ken",
       "lastName": "Thierry",
-      "email": "kent@gmail;com",
+      "email": "kent@gmail.com",
       "dob": "1970-02-25T23:00:00.000Z",
       "gender": "others",
       "education": "Post Graduate",
@@ -54,16 +54,16 @@
       "id": "7"
     },
     {
-      "firstName": "michael",
-      "lastName": "Hussein",
-      "email": "mhussein@gmail.com",
-      "dob": "1994-03-08T23:00:00.000Z",
+      "firstName": "Victor ",
+      "lastName": "Sauss",
+      "email": "sauss@gmail.com",
+      "dob": "1992-06-10T22:00:00.000Z",
       "gender": "male",
-      "education": "Graduate",
-      "company": "STI",
-      "experience": 4,
-      "package": 5,
-      "id": "8"
+      "education": "Intermediate",
+      "company": "IKEA",
+      "experience": 6,
+      "package": 4,
+      "id": "6867"
     }
   ]
 }
